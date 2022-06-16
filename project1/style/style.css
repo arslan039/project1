@@ -1,3 +1,6 @@
-.body{
-    background-image: url(https://wallpaperaccess.com/full/1089775.jpg);
-}
+    .image{
+        background: url('../assets/sunny-sheth-sPddhjVSU6A-unsplash.jpg') no-repeat 0 0;
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+    }
